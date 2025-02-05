@@ -1,0 +1,3 @@
+/home/fsenzol/C/Video rendering/build/CMakeFiles/ascii-renderer.dir
+/home/fsenzol/C/Video rendering/build/CMakeFiles/edit_cache.dir
+/home/fsenzol/C/Video rendering/build/CMakeFiles/rebuild_cache.dir

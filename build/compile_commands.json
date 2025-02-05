@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/fsenzol/C/Video rendering/build",
+  "command": "/usr/bin/afl-gcc -isystem /usr/include/SDL2  -fsanitize=address -g -g -std=gnu99 -o CMakeFiles/ascii-renderer.dir/main.c.o -c \"/home/fsenzol/C/Video rendering/main.c\"",
+  "file": "/home/fsenzol/C/Video rendering/main.c",
+  "output": "CMakeFiles/ascii-renderer.dir/main.c.o"
+},
+{
+  "directory": "/home/fsenzol/C/Video rendering/build",
+  "command": "/usr/bin/afl-gcc -isystem /usr/include/SDL2  -fsanitize=address -g -g -std=gnu99 -o CMakeFiles/ascii-renderer.dir/utils/ffmpeg-utils.c.o -c \"/home/fsenzol/C/Video rendering/utils/ffmpeg-utils.c\"",
+  "file": "/home/fsenzol/C/Video rendering/utils/ffmpeg-utils.c",
+  "output": "CMakeFiles/ascii-renderer.dir/utils/ffmpeg-utils.c.o"
+}
+]

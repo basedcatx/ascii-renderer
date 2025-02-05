@@ -1,0 +1,1 @@
+/usr/bin/cc  -fsanitize=address -g  -fsanitize=address "CMakeFiles/ascii-renderer.dir/main.c.o" "CMakeFiles/ascii-renderer.dir/utils/ffmpeg-utils.c.o" -o ascii-renderer  -lavcodec -lavformat -lavutil -lswscale -lcurses /usr/lib/x86_64-linux-gnu/libform.so /usr/lib/x86_64-linux-gnu/libSDL2.so

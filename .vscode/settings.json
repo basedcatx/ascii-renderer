@@ -1,0 +1,19 @@
+{
+	"cSpell.words": [
+		"avcodec",
+		"avformat",
+		"AVMEDIA",
+		"codecpar",
+		"libavcodec",
+		"libavdevice",
+		"libavfilter",
+		"libavformat",
+		"libavutil",
+		"libpostproc",
+		"libswscale"
+	],
+	"files.associations": {
+		"*.embeddedhtml": "html",
+		"ffmpeg-utils.h": "c"
+	}
+}

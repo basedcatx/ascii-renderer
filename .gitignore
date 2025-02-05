@@ -1,0 +1,7 @@
+.cmake
+.vscode
+build/*
+CmakeFiles/*
+samples/*
+ascii-renderer
+.txt
