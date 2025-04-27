@@ -8,8 +8,9 @@
 #include "includes/logger.h"
 
 int main(int argc, char *argv[]) {
-  if (argc < 1) {
+  if (argc < 2 ) {
     LOG("USAGE: ./ascii-renderer -v video.mp4");
+    return -1;
   }
 
   char *video_path = argv[1];
