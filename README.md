@@ -1,4 +1,3 @@
-```markdown
 # ascii-renderer
 
 A terminal-based video player that decodes video files and renders them as ASCII art in real time. Frames are decoded with FFmpeg, downscaled to fit your terminal dimensions, converted to grayscale, and mapped to a 6-character ASCII brightness palette — all displayed via ncurses.
